@@ -1,1 +1,3 @@
-# PROYECTO-04
+# PROYECTO-04 Preprocesamiento y análisis exploratorio de datos de pedidos
+
+Este proyecto se centra en el preprocesamiento y análisis exploratorio de datos de pedidos de Instacart. Implica la limpieza de cinco conjuntos de datos relacionados con pedidos, productos, pasillos y departamentos, abordando valores ausentes y duplicados. Luego, se realiza un análisis para entender los patrones de compra de los usuarios, incluyendo la frecuencia de pedidos por hora y día, el tiempo entre pedidos, la distribución del número de artículos por pedido, y la identificación de los productos más populares y reordenados. El objetivo es extraer insights sobre el comportamiento del cliente y las tendencias de productos para Instacart.
